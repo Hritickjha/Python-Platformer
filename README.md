@@ -1,43 +1,43 @@
-Overview
+## Overview
 
-Python Platformer is a simple 2D platformer game built using Python. This project serves as a learning tool for understanding game development concepts such as character movement, collision detection, and level design.
+# Python Platformer is a simple 2D platformer game built using Python. This project serves as a learning tool for understanding game development concepts such as character movement, collision detection, and level design.
 
-Features
+## Features
 
-Character Movement: Move the player left, right, and jump.
+# Character Movement: Move the player left, right, and jump.
 
-Collision Detection: Ensure the player interacts properly with the environment.
+# Collision Detection: Ensure the player interacts properly with the environment.
 
-Multiple Levels: Expandable design for adding new levels.
+# Multiple Levels: Expandable design for adding new levels.
 
-Graphics & Assets: Custom assets to enhance visual appeal.
+# Graphics & Assets: Custom assets to enhance visual appeal.
 
-Installation
+## Installation
 
-Clone this repository:
+# Clone this repository:
 
 git clone https://github.com/Hritickjha/Python-Platformer.git
 
-Navigate to the project directory:
+# Navigate to the project directory:
 
 cd Python-Platformer
 
-Install dependencies:
+# Install dependencies:
 
 pip install -r requirements.txt
 
-How to Run
+# How to Run
 
-Run the game using the following command:
+## Run the game using the following command:
 
 python tutorial.py
 
-Requirements
+## Requirements
 
 - Python 3.x
 - Pygame
 
-To install Pygame, run:
+## To install Pygame, run:
 
 pip install pygame
 
@@ -45,19 +45,19 @@ Contributing
 
 Fork the repository.
 
-Create a new branch: git checkout -b feature-branch
+## Create a new branch: git checkout -b feature-branch
 
-Commit your changes: git commit -m 'Add new feature'
+## Commit your changes: git commit -m 'Add new feature'
 
-Push to the branch: git push origin feature-branch
+## Push to the branch: git push origin feature-branch
 
-Submit a pull request.
+## Submit a pull request.
 
-License
+## License
 
 This project is open-source and available under the MIT License.
 
-Contact
+## Contact
 
 For any inquiries, contact Hritickjha.
 
